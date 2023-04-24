@@ -1,0 +1,14 @@
+.Home h1{
+    text-align: right;
+    background-color: #03A96B;
+}
+
+.KU-logo {
+    width: 100px;
+}
+
+.Home img {
+    float: left;
+    margin-left: 40px;
+    background-color: #D9D9D9;
+}
